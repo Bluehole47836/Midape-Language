@@ -1,3 +1,3 @@
 # Midape-Language
 ******
-## ___Make-It-Different-Add-Programing-Elegantly___
+## ___Make-It-Different-And-Programing-Elegantly___
